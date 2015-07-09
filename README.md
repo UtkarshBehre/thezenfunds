@@ -1,2 +1,2 @@
 # thezenfunds
-All files for www.thezenfunds.com website building
+All files that are used in the making of www.thezenfunds.com are here.
